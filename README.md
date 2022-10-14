@@ -1,3 +1,3 @@
-# Personal-Projects
+# Rock Paper Scissors
 
-This repository includes all the small projects that I have created to test new tricks/languages I learned in school. Hope you enjoy them! - Airell M.
+Created a rock paper scissors game in python that you can play in the terminal against the computer.
